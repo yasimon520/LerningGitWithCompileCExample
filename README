@@ -1,0 +1,11 @@
+this example
+git add <this file>
+git commit -m "text" 
+
+now i'm edit this file
+git add <this file> 
+
+edit again
+git add <this file>
+git commit -m "text"
+
